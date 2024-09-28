@@ -1,4 +1,4 @@
-# Path-Planning-in-a-2D-environment-using-A-Algorithm-
+# Path-Planning-in-a-2D-environment-using-A*-Algorithm-
 
 # README
 
